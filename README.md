@@ -4,4 +4,4 @@ All kind of items can be found while fishing. The idea is to complete the campai
 
 Video explaining the ruleset: https://youtu.be/wdMd_c8C9GQ?si=Rc0hcI8pfF5-P6Z9
 
-Rules Updated: 1/29/2026 11:54 est to include picking up fishing rods from the ground and adding no challenge/bounty claim.
+Rules Updated: 2/2/2026 15:16 est allowing full vendor use
